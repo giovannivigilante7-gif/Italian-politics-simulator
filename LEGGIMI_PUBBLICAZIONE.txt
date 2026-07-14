@@ -1,0 +1,25 @@
+ITALIA 2027 — PACCHETTO SITO/PWA V30
+
+PUBBLICAZIONE GRATUITA CON GITHUB PAGES
+1. Crea un account GitHub.
+2. Crea un repository pubblico, per esempio “italia-2027-simulatore”.
+3. Carica nella radice tutti i file e la cartella icons contenuti nel pacchetto.
+4. Apri Settings > Pages.
+5. Scegli Deploy from a branch, branch main e cartella /(root), poi Save.
+6. GitHub mostrerà l’indirizzo pubblico.
+
+AGGIORNAMENTI
+Per aggiornare il gioco sostituisci index.html e 404.html e cambia il nome CACHE in sw.js. Non concedere permessi di scrittura ad altri utenti.
+
+INSTALLAZIONE
+Apri il sito sul telefono e usa “Installa app” oppure “Aggiungi alla schermata Home”. Dopo il primo caricamento il service worker consente anche l’avvio offline.
+
+SALVATAGGI
+Le partite sono locali al browser/dispositivo. Usa Esporta file come backup e Importa file per trasferirle.
+
+LIMITAZIONE TECNICA
+Gli altri non possono modificare il sito pubblicato senza accesso al tuo account, ma il codice HTML/JavaScript di un sito pubblico può essere visualizzato o copiato dai visitatori.
+
+
+CORREZIONE V30
+Le elezioni anticipate aprono un nuovo mandato di cinque anni dalla data reale del voto. Esempio: voto nel 2029, mandato 2029–2034.
