@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "Italia 2027 — Simulatore politico",
+  "name": "Italia 2027 — Beta 1.0",
   "short_name": "Italia 2027",
-  "description": "Simulatore politico e istituzionale italiano dal 2027.",
+  "description": "Simulatore politico italiano — Beta 1.0",
   "lang": "it",
   "start_url": "./",
   "scope": "./",

@@ -1,4 +1,4 @@
-ITALIA 2027 — PACCHETTO SITO/PWA V30
+ITALIA 2027 — PACCHETTO SITO/PWA V37
 
 PUBBLICAZIONE GRATUITA CON GITHUB PAGES
 1. Crea un account GitHub.
@@ -21,5 +21,48 @@ LIMITAZIONE TECNICA
 Gli altri non possono modificare il sito pubblicato senza accesso al tuo account, ma il codice HTML/JavaScript di un sito pubblico può essere visualizzato o copiato dai visitatori.
 
 
-CORREZIONE V30
+CORREZIONE V37
 Le elezioni anticipate aprono un nuovo mandato di cinque anni dalla data reale del voto. Esempio: voto nel 2029, mandato 2029–2034.
+
+
+NOVITÀ V37 (BASE V37)
+- musica ambient regolabile nella barra superiore
+- temi musicali e volume
+- animazioni fluide
+- grafici rapidi in Panoramica
+- mappe Italia e Difesa migliorate visivamente
+
+
+NOVITÀ V37
+- avvertenza iniziale sulla natura della simulazione
+- briefing con obiettivi dopo il giuramento
+- unica musica ambientale con On/Off e volume
+- nuova grafica interattiva per profili, Parlamento, leggi, referendum e ministeri
+- restyling completo delle sezioni e mappe più dettagliate
+
+
+CORREZIONI V37
+- avvertenza compatta sopra la schermata di scelta del Presidente del Consiglio
+- pulsante Forma il Governo sempre visibile e stabile
+- indicazione chiara quando manca la maggioranza
+
+
+CORREZIONI V37
+- barre colorate e leggibili nella finestra Qualità dei servizi
+- Musica Off arresta timer, oscillatori e AudioContext senza suoni residui
+- volume del sito combinato normalmente con il volume generale del dispositivo
+- supporto ai comandi multimediali play/pausa quando disponibili
+
+
+MIGLIORAMENTI V37
+- interfaccia uniformata e più leggibile
+- Parlamento e feedback delle decisioni migliorati
+- ritmo e bilanciamento più graduali
+- grafici, mobile, salvataggi e testi rifiniti
+- audio sostituito con un unico elemento multimediale reale
+- mappa Italia ridisegnata con costa dettagliata, capitale e capoluoghi
+- mappa Difesa resa più cartografica
+
+
+ITALIA 2027 — BETA 1.0
+Il controllo musicale contiene solo Musica On/Off. Il volume interno non è più mostrato né modificabile dal sito.
